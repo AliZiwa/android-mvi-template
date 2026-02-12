@@ -1,0 +1,18 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.hprof
+
+# Gradle
+/gradle/plugins/
+
+# Google Services (placeholder - remove this line when using real config)
+# /app/google-services.json
